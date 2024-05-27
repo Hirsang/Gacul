@@ -1,4 +1,5 @@
 const daftarNegara ={
     uruguay,
-    amerika
+    amerika,
+    Indonesia
 }
