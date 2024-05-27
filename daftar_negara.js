@@ -1,0 +1,4 @@
+const daftarNegara ={
+    uruguay,
+    amerika
+}
